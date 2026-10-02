@@ -1,0 +1,47 @@
+[
+  {
+    "id": "USR1790868039510",
+    "name": "rithish kumar",
+    "age": 24,
+    "role": "student",
+    "preferredCourse": 4,
+    "passwordHash": "$2b$10$vpDmuK9xh5KYIRvqxxKUi.kZGXdy6/02gR0z9yTirc2YzWEew3ur.",
+    "createdAt": "2026-10-01T15:20:39.510Z"
+  },
+  {
+    "id": "USR1790872468860",
+    "name": "vishal v",
+    "age": 23,
+    "role": "student",
+    "preferredCourse": 2,
+    "passwordHash": "$2b$10$W6bN18s5QjwkmPKQ.DQP5OmSVvbXHcqOyrKPq0zOYWP0vzhHe.DXq",
+    "createdAt": "2026-10-01T16:34:28.860Z"
+  },
+  {
+    "id": "USR1790872725128",
+    "name": "hari",
+    "age": 26,
+    "role": "student",
+    "preferredCourse": 6,
+    "passwordHash": "$2b$10$BHcbMixEo0eM4HDG0qCsO.y9KlYExrfukGiCqZmCnDo/GtEPNLWfW",
+    "createdAt": "2026-10-01T16:38:45.128Z"
+  },
+  {
+    "id": "USR1790922899628",
+    "name": "jagan",
+    "age": 34,
+    "role": "teacher",
+    "preferredCourse": 4,
+    "passwordHash": "$2b$10$vkNijwKeXp710xIQF8/YWeZSZXw39imYGlWBxLvpLnMlGvkKtcLle",
+    "createdAt": "2026-10-02T06:34:59.628Z"
+  },
+  {
+    "id": "USR1790947654069",
+    "name": "rithish kumar",
+    "age": 20,
+    "role": "student",
+    "preferredCourse": 1,
+    "passwordHash": "$2b$10$lgIYQ47iDuusbCY4sI6Yk.Tq2FGMVFq5YUii1Mha2aSesPBb.JpG6",
+    "createdAt": "2026-10-02T13:27:34.069Z"
+  }
+]
